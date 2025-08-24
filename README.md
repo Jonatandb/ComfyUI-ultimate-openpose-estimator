@@ -66,7 +66,7 @@ E:/ComfyUI_windows_portable/python_embeded/python.exe -m pip install -r requirem
 
 ## Usage
 
-- Insert node by `Right Click -> ultimate-openpose -> Opnepose Estimator Node`
+- Insert node by `Right Click -> ultimate-openpose -> Openpose Estimator Node`
 
 ## Credits
 
@@ -77,3 +77,4 @@ E:/ComfyUI_windows_portable/python_embeded/python.exe -m pip install -r requirem
 ## License
 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
